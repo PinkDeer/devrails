@@ -1,1 +1,1 @@
-# devrails.github.io
+[devrails.ru](http://devrails.ru/)
